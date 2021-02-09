@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class main1 {
+public class Main1 {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> inputnums = new ArrayList<Integer>();

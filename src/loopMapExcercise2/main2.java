@@ -3,7 +3,7 @@ package loopMapExcercise2;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class main2 {
+public class Main2 {
 	public static void main(String[] args) {
 		HashMap<String, String> vehicles = new HashMap<String, String>();
 		vehicles.put("civic", "honda");
